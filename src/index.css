@@ -1,0 +1,68 @@
+body {
+  background: #eee;
+  overflow-y: hidden;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 900px;
+  height: 600px;
+  margin: auto;
+}
+
+.drum-kit {
+  display: flex;
+  width: 800px;
+}
+
+drums-cymbal:nth-child(1) {
+  transform: translateX(0px) scaleX(-1);
+}
+
+drums-bass[type="kick"] {
+  transform: translate(-250px, 65px);
+  z-index: 50;
+}
+
+.group {
+  display: flex;
+  transform: translateX(-200px);
+}
+
+.keys {
+  display: flex;
+  width: 700px;
+  justify-content: space-between;
+  margin-top: 3em;
+}
+
+.keys kbd {
+  background: linear-gradient(160deg, #ddd, #fff);
+  border-radius: 3px;
+  box-shadow: inset 0 -2px 0 0 #cdcde6, inset 0 0 1px 1px #fff, 0 1px 2px 1px rgba(30, 35, 90, .4);
+  color: #4c5564;
+  font-family: var(--terminal-font);
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0 2px;
+  padding: 5px 8px;
+  position: relative;
+  top: -2px;
+  white-space: nowrap
+}
+
+body.cat-mode .container::after {
+  transform: translateY(10px);
+}
+
+body .container::after {
+  transition: transform 0.5s;
+  content: url(cat.png);
+  position: absolute;
+  bottom: 0;
+  transform: translateY(150px);
+  left: calc(50% - 50px);
+}
