@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.233 4.233"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="baqueta.min.svg"
+   inkscape:export-filename="\\wsl$\Debian\home\manz\github\twitch-battery\public\drumstick.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2221">
+      <stop
+         style="stop-color:#895720;stop-opacity:1;"
+         offset="0"
+         id="stop2217" />
+      <stop
+         style="stop-color:#783220;stop-opacity:0.96078432"
+         offset="1"
+         id="stop2219" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2221"
+       id="linearGradient2515"
+       gradientUnits="userSpaceOnUse"
+       x1="2.3273196"
+       y1="2.0865262"
+       x2="2.0217099"
+       y2="2.4543641"
+       gradientTransform="matrix(1.318,0.10498,-0.10498,1.318,-0.381,-0.776)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2221"
+       id="linearGradient2696"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.318,0.10498,-0.10498,1.318,-0.381,-0.776)"
+       x1="0.18578923"
+       y1="1.0888709"
+       x2="0.49552405"
+       y2="1.0526948" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="23.375"
+     inkscape:cx="5.7326203"
+     inkscape:cy="11.97861"
+     inkscape:window-width="1347"
+     inkscape:window-height="1040"
+     inkscape:window-x="465"
+     inkscape:window-y="17"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <ellipse
+     style="fill:url(#linearGradient2696);fill-opacity:1;stroke-width:0.0999997;stop-color:#000000;font-variation-settings:normal;opacity:1;vector-effect:none;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-opacity:1"
+     cx="-0.15050763"
+     cy="0.71301699"
+     rx="0.27104571"
+     ry="0.45086142"
+     transform="matrix(-0.76975676,0.63833731,0.63833731,0.76975676,0,0)"
+     id="ellipse2" />
+  <path
+     style="fill:url(#linearGradient2515);fill-opacity:1;stroke:none;stroke-width:0.0999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0.89031544,0.61448516 0.67263474,0.74967828 3.2016995,3.7842295 c 0,0 0.4108398,0.6203021 0.7645787,0.3089291 C 4.3186991,3.7816807 3.7597643,3.2888507 3.7597643,3.2888507 Z"
+     id="path4" />
+</svg>
